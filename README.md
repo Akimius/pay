@@ -14,6 +14,6 @@
 
 ### Note: There are some over-engineered features that are out of scope for this assignment (made intentionally)
 - Logging system
-- Dicker infrastructure for local development
+- Docker infrastructure for local development
 - Etc.
 
