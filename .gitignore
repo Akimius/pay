@@ -1,0 +1,5 @@
+services/db/dump
+.idea
+src/logs/*.log
+src/vendor
+src/.phpunit.result.cache
